@@ -19,7 +19,7 @@ public class cs {
                 case 3: a = 3;
                     System.out.println("Середа епта");
                 break;
-
+// если никакой case не совпадает, то по дефолту можно вывести сообщение или же че-нить другое.
                 default:
                     System.out.println("Че-та нет такого =(");
             }
